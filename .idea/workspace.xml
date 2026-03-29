@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579a45f4-98c5-446f-87e6-88d79d4c11b3" name="Changes" comment="feat: estrutura inicial do projeto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="579a45f4-98c5-446f-87e6-88d79d4c11b3" name="Changes" comment="feat: estrutura inicial do projeto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774798220914</updated>
       <workItem from="1774798222194" duration="208000" />
-      <workItem from="1774798469422" duration="784000" />
+      <workItem from="1774798469422" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="feat: estrutura inicial do projeto">
       <option name="closed" value="true" />
